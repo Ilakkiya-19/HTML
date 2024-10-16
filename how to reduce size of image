@@ -1,0 +1,7 @@
+what to do if the icon is bigger? how to reduce the image size?
+
+  If you're using an <img> tag, you can specify the width and height directly in the HTML:
+
+  <img src="icon.png" alt="Icon" width="50" height="auto">
+icon.png is your image name.png
+alt="image name"
