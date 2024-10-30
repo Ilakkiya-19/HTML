@@ -1,0 +1,9 @@
+if there are bunch of unordered elements flex helps to organize those unordered elements into easily organized ordered elements.
+https://youtu.be/hVWhsHOQbXM?si=SFK64NfDGKcFuY4n
+learn more about this from this youtube channel.
+
+flex wrap:
+flex wrap is a css property where used in flexbox to control whether the flex items should be wrap to the nextline if they overflow the container's width. it can be set to wrap or wrapping to keep items on a single line.
+
+Justify content:
+it is a css property which telling the browser how to position your content horizontally inside a container. It decides whether ypur container sticks to your left or right or center or spreads out evenly in the available space.
